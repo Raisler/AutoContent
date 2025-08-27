@@ -1,0 +1,64 @@
+{
+"original_video": {
+"title": "Eric Wendel - O Vingador Brasileiro do Javascript no Papinho Tech",
+"summary": "Neste episódio do Papinho Tech, Eric Wendel, uma das maiores referências em JavaScript no Brasil e no mundo, compartilha sua trajetória, experiências e insights sobre o universo da programação, desde o início de sua carreira até se tornar um Google Developer Expert e embaixador do Node.js."
+},
+"viral_segments": [
+{
+"clip_title": "Embaixador do Node.js: Novidade bombástica!",
+"hook": "Eric Wendel revela em primeira mão que é o terceiro embaixador do projeto Node.js no mundo!",
+"description": "Este segmento é viral por ser uma notícia exclusiva e impactante no mundo da tecnologia, com Eric Wendel anunciando seu novo e prestigiado papel como embaixador do Node.js. Isso gera curiosidade e engajamento na comunidade tech.",
+"content_category": ["Notícia", "Tecnologia", "Carreira"],
+"transcript": "É, não sei, simplesmente não me querem mais, mas eu também agora, eu sou o terceiro, isso não foi nem divulgado na internet ainda, provavelmente as próximas semanas vai ser divulgado, mas existem somente três pessoas que são embaixadoras do projeto Node.js, e eu fui uma delas. Então é um programa 100% novo, que a gente vai rodar live dentro do canal do NoJS, vou trazer os contribuidores que estão fazendo releases, as novas versões do projeto NoJS, e vou estar lá meio que liderando essa iniciativa. Então isso é bem bacana, né cara? Vamos Brasil, mostrar o que viemos, né?"
+},
+{
+"clip_title": "O Ryan Dahl e a IA: Criador do Node.js mudou!",
+"hook": "Ryan Dahl, o tímido criador do Node.js, fez treinamento de relações públicas para vender o Deno!",
+"description": "Revelação surpreendente sobre a mudança de comportamento do criador do Node.js, Ryan Dahl, que passou por treinamento para se tornar mais comunicativo para o projeto Deno. Isso mostra um lado inusitado de uma figura importante na área de tecnologia.",
+"content_category": ["História", "Tecnologia", "Curiosidade"],
+"transcript": "Você viu, teve até o anunciamento do Dino agora né, eu tive o privilégio, como você falou, de palestras e tudo mais, eu fui pro Palestina, Alemanha, falando como eu recriei o projeto do Node.js do zero, e o Ryan Doll, criador do Node.js, estava na plateia me assistindo. E a minha palestra era basicamente o histórico de comits que ele teve no projeto, que eu fiquei interpretando. Cara, eu fui fazer uma engenharia reversa de como ele pensou, foi uma loucura. Mas, de novo, pra mim foi tudo assim, cara, é da minha cabeça, eu acho que é isso, e o cara lá na frente. E ele é uma das pessoas que eu percebi que ele era uma das pessoas mais tímidas que eu conheci. Você ia falar com ele, ele ficava meio pra dentro. E aí, no meu anunciamento do Dino, ele tava todo lá, trocando ideia, zoeira. que esse cara, será que rodaram uma AI? E os caras falaram, não, ele passou por um treinamento de relações públicas, pra palestrar, pra participar e ser mais próximo ali do público, porque precisa vender a plataforma. Olha que doido isso, né?"
+},
+{
+"clip_title": "Node.js quebrado: Por que não dá pra consertar?",
+"hook": "O criador do Node.js sabe que é ruim, mas consertar quebra a internet!",
+"description": "Um insight contraintuitivo e surpreendente sobre a arquitetura do Node.js, explicando por que certas falhas não podem ser corrigidas devido ao impacto massivo na internet. Gera admiração e discussão sobre a complexidade do desenvolvimento de larga escala.",
+"content_category": ["Tecnologia", "Curiosidade", "Conselho"],
+"transcript": "Por isso que ele falou, eu não tava preparado pro rumo que esse projeto tomou. Por isso que muitas coisas do Node.js, lá das primeiras versões, a galera fala, pô, mas isso aqui no Node é muito ruim, né? Cara, é ruim, o criador sabe que é ruim, só que não dá pra alterar porque quebra a internet. Porque o nível de popularidade foi tão alto que não dava tempo de consertar. Então, hoje, muita coisa do Javascript, não, simplesmente não dá pra consertar, porque senão você quebra a internet. Muito doido isso, né? Porra."
+},
+{
+"clip_title": "Programador ruim: A IA não vai resolver TUDO!",
+"hook": "A IA não mente, mas alucina! Programador ruim ainda é um problema?",
+"description": "Discussão polêmica e direta sobre o impacto da IA no trabalho de programadores, levantando a questão de que a IA não resolve todos os problemas, especialmente em larga escala, e que a qualidade do programador ainda é crucial. Gera debate e reflexão.",
+"content_category": ["Conselho", "Tecnologia", "Humor"],
+"transcript": "Mais ou menos, né? Porque ela faz, ó, por exemplo, agora tem uma coisa que eu tô estudando, que é rodar IA em local. E aí eu tô vendo o YouTuber falando, cara, compra uma máquina, compra uma máquina com placa com, sei lá, o Mac Mini, e aí você vai conseguir rodar o Olhama com um modelo grande e tudo mais, e vai funcionar legal. Eu falei, legal, funcionou, mas pra um usuário. Como é que eu faço pra suportar 300 usuários simultâneos nessa máquina? Ah, não dá. Ah, por que que não dá? Ah, porque o modelo de arquitetura não dá, você tem que usar um outro tipo de placa. Eu falei, cara... A AI fala, você consegue usar, mas rodar 10 usuários concorrentes? Quando você descobre que a AI está mentindo ou alucinando? Quando você coloca em prática. Então, muita gente coloca as coisas em prática e só percebe lá na frente, né? Isso que é muito doido."
+},
+{
+"clip_title": "Polêmica da Pokédex: Copiar e colar É RUIM!",
+"hook": "Fazer Pokédex é ok, mas copiar e colar código da internet? Jamais!",
+"description": "Eric Wendel aborda a polêmica da Pokédex e a prática de copiar e colar código, destacando a importância de estender o conhecimento e ser criativo, em vez de apenas reproduzir. Isso é um conselho prático e relevante para devs.",
+"content_category": ["Conselho", "Tutorial", "Tecnologia"],
+"transcript": "Bom, eu acho que assim, eu vou colocar meu chapéu de instrutor barra professor e eu falo o seguinte, cara, as pessoas veem programação como trabalho, 100% trabalho. Pra mim, deveria também ser diversão. Então assim, o que você faz fora do seu trabalho, na minha concepção, é o que realmente faz você mudar de emprego lá na frente, faz as pessoas lembrarem de você e assim por diante. Então, você fez um Pokédex, O Pokédex é um projeto simples, mas o que você aprendeu e o que você conseguiu estender disso? Então, ah, eu vou fazer um Pokédex. Cara, Pokédex é simples, mas e se você integrar um Pokédex numa MCP de AI que vai gerar um novo Pokémon baseado numa imagem? Tá vendo como não é só mais o Pokédex? É um monte de outras coisas. Eu sou contra pessoas que copiam e colam Código que vem na internet. Então você copiou e colou e você não estendeu em nada. Você não foi em nada mais que foi dali. Então, eu sou contra quem copia e cola sem pensar, sem olhar, mas eu sou a favor quem estende. Mas aí qualquer coisa, né?"
+},
+{
+"clip_title": "O ódio ao 'vendedor de curso': A inveja fala!",
+"hook": "Por que o 'vendedor de curso' de tecnologia causa tanta inveja?",
+"description": "Eric Wendel desabafa sobre o preconceito contra 'vendedores de curso' e a inveja que isso gera, ressaltando o esforço e dedicação para criar conteúdo de qualidade. Isso gera identificação e discussão sobre o mercado de cursos online.",
+"content_category": ["História", "Conselho", "Carreira"],
+"transcript": "É, o vendedor de curso, cara. Inclusive no final os caras rotulam, né? E aí rotulam você, imagina também. Ah, o maluco virou vendedor de curso, tá ganhando dinheiro. Nossa, olha que absurdo. Ele tava ficando milionário vendendo curso. E que que é o problema, cara? Pô, é porque o cara queria, tá ligado? Aí ele não consegue, aí isso é ruim."
+},
+{
+"clip_title": "O dia que Eric Wendel largou o CLT pela liberdade",
+"hook": "No exame admissional, Eric Wendel desistiu do CLT para ser empreendedor!",
+"description": "Momento 'aha' e de inspiração onde Eric Wendel decide não assinar um contrato de trabalho CLT no dia do exame admissional para perseguir a liberdade de ser empreendedor e criar seus próprios cursos. Isso é um momento de virada na sua história de carreira.",
+"content_category": ["História", "Carreira", "Inspiração"],
+"transcript": "E até abrindo também, quando eu comecei a vender cursos, foi lá em 2020, mais ou menos, dentro da pandemia, na verdade, eu quase fui embora do país, aí não deu certo, porque estourou a pandemia, e eu fiquei nessa, cara, vou voltar a ser CLT, eu fui quase contratado na Stone em pagamentos, eu falo bastante essa história, e aí eu falei, putz, mano, no dia do meu exame admissional, Falei, pô, mano, exame admissional. Eu pensei, cara, eu tenho grana guardada. Os amigos sempre falavam, cara, tenta fazer alguma coisa mais premium, com qualidade. Porque se você tá fazendo palestras gratuitas, você tá viajando, fazendo tudo gratuito, no dia que você for pago, você vai conseguir entregar com mais qualidade e ouvir o problema realmente das pessoas. Eu falei, pô, é verdade. No primeiro curso que eu fiz, a galera, olha lá o Eric aqui vendido, olha isso. Eu falei, cara, eu tive que estudar muito. muito pra poder conseguir trazer esse conteúdo mastigado pra você."
+},
+{
+"clip_title": "A trajetória de Eric Wendel: De C# ao JavaScript",
+"hook": "Eric Wendel revela como saiu do C# para se tornar referência em JavaScript!",
+"description": "Eric Wendel compartilha sua jornada de migração do C# para o JavaScript, explicando a estratégia por trás de sua especialização em Node.js e como isso o impulsionou na carreira. Isso é uma história inspiradora e prática para quem busca direcionamento.",
+"content_category": ["História", "Carreira", "Tecnologia", "Conselho"],
+"transcript": "Da hora. Bom, primeiro título eu comecei com C-Sharp, então era do mundo do .NET e tudo mais. E aí tem esse Premium, que é esse... Microsoft MVP aqui, que era um prêmio de Microsoft, né? Então, e na época, eu tinha os meus heróis lá dentro, que era Giovanni Bassi, Elemar, uns caras muito grandes, e eles eram de C-Sharp. Aí eu falei, cara, se eu quisesse entrar pra C-MVP, conseguir esse prêmio da comunidade em C-Sharp, eu teria que estar no nível desses caras. Eu era juninho, tá ligado? Eu tinha, acho que dois anos de programação, mais ou menos. Eu falei, mas eu quero isso. E eu comecei a pesquisar o que a Microsoft estava investindo para os próximos anos e ela estava criando ferramentas para Python e Node.js. Aí eu comecei a olhar e falei, pô, Node.js, o que tem de Node.js? Você joga no Google, quase não tem conteúdo sobre. Eu falei, isso é bom, porque eu posso ser um dos primeiros a escrever sobre."
+}
+]
+}
