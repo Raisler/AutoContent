@@ -24,11 +24,12 @@ def run_command(command):
     except Exception as e:
         print(f"An error occurred: {e}")
 
+api_key = "from dotenv"
 
 def run_gemini_curl():
-    """curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent" \
+    f"""curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent" \
   -H 'Content-Type: application/json' \
-  -H 'X-goog-api-key: AIzaSyD0WyDHuy-dqcUt2yIPRKiDnramUXuzRZE' \
+  -H 'X-goog-api-key: {api_key} \
   -X POST \
   -d '{
     "contents": [
